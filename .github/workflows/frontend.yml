@@ -29,4 +29,4 @@ jobs:
           file: ./frontend/Dockerfile
           push: true
           tags: mdkaifraza/ccps-frontend:latest
-          compress: true
+          compress: truel

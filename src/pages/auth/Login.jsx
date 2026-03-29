@@ -28,7 +28,7 @@ const Login = () => {
       <div className="w-full max-w-sm bg-white/90 backdrop-blur-md shadow-2xl rounded-2xl p-6 md:p-8 flex flex-col items-center">
         {/* Logo (larger) */}
         <img src={image} alt="Brand Logo" className="h-20 mb-3" />
-        <h1 className="text-2xl font-bold tracking-tight text-gray-900 mb-2">Welcome Back</h1>
+        <h1 className="text-2xl font-bold tracking-tight text-gray-900 mb-2">Welcome Again</h1>
         <p className="text-gray-500 text-sm mb-8 text-center w-full">Sign in to access your dashboard</p>
         <form onSubmit={handleSubmit} className="w-full space-y-5">
           <div>
